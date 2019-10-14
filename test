@@ -1,0 +1,6 @@
+echo "# dun" >> fun.md
+git init
+git add README.md
+git commit -m "skol"
+git remote add origin https://github.com/Duncufft/Dun.git
+git push -u origin master
